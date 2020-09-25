@@ -15,7 +15,7 @@ ul {
     list-style-type: none;
 }
 h3 {
-    color: #f58a07;
+    color: #0b8793;
     font-family: 'Poppins', Helvetica, sans-serif;
     font-weight: 400;
 }
@@ -325,7 +325,7 @@ h1 {
     border-radius: .25em;
 }
 .tag-ongoing {
-    background-color: #f0ad4e;
+    background-color: #0b8793;
 }
 .shrink {
     object-fit: cover;
